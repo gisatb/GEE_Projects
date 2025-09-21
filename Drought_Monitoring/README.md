@@ -16,6 +16,15 @@ This project uses **Google Earth Engine (GEE)** to monitor drought conditions by
 
 ---
 
+🌐 **Demo**: 
+
+Here’s the dashboard in action 👇  
+![crop classification Demo](drought.png)
+![crop classification Demo](ee-chart.png)
+![crop classification Demo](hist_vci.png)
+
+ ---
+ 
 ## 🛰️ Data Used
 
 - **MODIS NDVI:** `MODIS/061/MOD13A2` (16-day composite, 2001–2024)  

@@ -5,6 +5,16 @@ This project classifies crops using **Sentinel-2 MSI data** , **Sentinel-1 SAR**
 
 ---
 
+🌐 **Demo**: 
+
+Here’s the dashboard in action 👇  
+![crop classification Demo](poppy.png)
+![crop classification Demo](profile.png)
+![crop classification Demo](ppopy.png)
+![crop classification Demo](wheat.png)
+
+ ---
+ 
 ## ✨ Key Features
 - Multi-temporal NDVI & EVI stacking (Oct 2024 – May 2025)  
 - Random Forest crop classification  

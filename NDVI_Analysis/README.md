@@ -4,6 +4,13 @@ Generate NDVI-based seasonal cycle animations using MODIS (MOD13Q1) data in Goog
 
 ---
 
+🌐 **Live Demo**: [Click here to explore](https://earthengine.googleapis.com/v1/projects/ee-atulmncfc/videoThumbnails/5af5aa24b6ed8136562861b5212dc932-87b4fd7cd994a7d822f903a3cfe31d45:getPixels)
+
+Here’s the dashboard in action 👇  
+![NDVI analysis Demo](ndvi_analysis.png)
+![NDVI analysis Demo](ndvi.png)
+
+ ---
 ## 📌 Project Overview
 
 This project creates a **time-series NDVI GIF animation** to visualize vegetation dynamics across the study region. The workflow:
