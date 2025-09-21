@@ -1,6 +1,6 @@
 # 🌎 GEE Projects Portfolio
 
-This repository contains multiple **Remote Sensing & GIS projects** using **Google Earth Engine (GEE)**, Python, and Streamlit.
+This repository contains multiple **Remote Sensing & GIS projects** using **Google Earth Engine (GEE)**.
 
 ---
 
@@ -16,10 +16,10 @@ This repository contains multiple **Remote Sensing & GIS projects** using **Goog
 - Analyze flood dynamics over time
 - [Project Details](./Flood_Inundation/README.md)
 
-### 3️⃣ Land Use / Land Cover (LULC) Mapping
-- Multi-temporal LULC classification
-- Generate interactive maps and area statistics
-- [Project Details](./LULC_Mapping/README.md)
+### 3️⃣ NDVI Analysis
+- Multi-temporal ndvi time series
+- Generate interactive maps and ndvi profile
+- [Project Details](./NDVI_Analysis/README.md)
 
 ### 4️⃣ Drought Monitoring
 - NDVI/NDWI-based drought monitoring
