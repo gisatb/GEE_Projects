@@ -1,22 +1,21 @@
-# 🌾 Crop Classification Dashboard - Neemuch District
+# 🌾 Crop Classification and Monitoring
 
 **Description:**  
 This project classifies crops using **Sentinel-2 MSI data** , **Sentinel-1 SAR** and multi-temporal vegetation indices (NDVI, EVI, SAVI, NDMI, RVI). The workflow includes crop classification using Random Forest, crop area estimation, validation with ground truth, and temporal NDVI analysis.
 
 ---
 
-🌐 **Demo**: 
+🌐 **Visualizations** 
 
-Here’s the dashboard in action 👇  
+Here’s the snaps of classiification 👇  
 ![crop classification Demo](assets/poppy.png)
 ![crop classification Demo](assets/profile.png)
-![crop classification Demo](assets/ppopy.png)
-![crop classification Demo](assets/wheat.png)
+![crop classification Demo](assets/wheat_k.png)
 
  ---
 
 ## ✨ Key Features
-- Multi-temporal NDVI & EVI stacking (Oct 2024 – May 2025)  
+- Multi-temporal NDVI & EVI stacking 
 - Random Forest crop classification  
 - Crop area calculation and CSV export  
 - Temporal NDVI charts for validation  
@@ -50,7 +49,7 @@ Add screenshots or GIFs of your GEE outputs in `assets/` folder. Example:
 ---
 
 ## 📊 Output
-- **Classified crop maps** (`wheat_2023_24`, `stackedImage_scaled`)  
+- **Classified crop maps** (`classifed image`)  
 - **Crop area statistics** in hectares  
 - **Validation metrics** (confusion matrix & accuracy)  
 - **Temporal NDVI charts** for different crop classes  

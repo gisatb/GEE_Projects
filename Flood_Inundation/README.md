@@ -6,7 +6,7 @@ Monitor and visualize flood extent, cropland, and built-up area impacts using Se
 
 🌐 **Live Demo**: [Click here to explore](https://atulmncfc.users.earthengine.app/view/flood-mapping)
 
-Here’s the dashboard in action 👇  
+Here’s the app in action 👇  
 ![Flood analysis Demo](assets/flood.png)
 
  ---

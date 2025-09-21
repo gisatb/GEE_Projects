@@ -16,9 +16,9 @@ This project uses **Google Earth Engine (GEE)** to monitor drought conditions by
 
 ---
 
-🌐 **Demo**: 
+🌐 **Visualizations** 
 
-Here’s the dashboard in action 👇  
+Here’s the snaps of Drought 👇  
 ![crop classification Demo](assets/drought.png)
 ![crop classification Demo](assets/ee-chart.png)
 ![crop classification Demo](assets/hist_vci.png)
