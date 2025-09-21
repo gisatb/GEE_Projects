@@ -1,0 +1,23 @@
+# Node / JavaScript
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# GEE exports (if downloaded locally)
+*.tif
+*.tiff
+*.csv
+*.zip
+
+# Assets you don't want to commit
+/assets/temp/
