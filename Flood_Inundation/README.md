@@ -7,10 +7,10 @@ Monitor and visualize flood extent, cropland, and built-up area impacts using Se
 🌐 **Live Demo**: [Click here to explore](https://atulmncfc.users.earthengine.app/view/flood-mapping)
 
 Here’s the dashboard in action 👇  
-![Flood analysis Demo](flood.png)
+![Flood analysis Demo](assets/flood.png)
 
  ---
- 
+
 ## 📌 Project Overview
 
 This project leverages **Sentinel-1 SAR (C-band)** imagery and other geospatial datasets to detect floods and assess their impacts. The workflow:
